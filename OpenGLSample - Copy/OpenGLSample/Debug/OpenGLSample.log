@@ -1,0 +1,37 @@
+﻿  Source.cpp
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\OpenGL\GLFW\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(13,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(37,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(38,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(39,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(74,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(79,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(80,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(81,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(90,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(91,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(92,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(104,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(117,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(198,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(213,51): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(214,54): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(215,55): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(216,50): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(218,52): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(219,54): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(220,54): warning C4305: 'argument': truncation from 'double' to 'float'
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(234,21): warning C4018: '<': signed/unsigned mismatch
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(262,2): warning C4551: function call missing argument list
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(278,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(278,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(278,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\OpenGLSample\Source.cpp(278,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGLSample.vcxproj -> \\apporto.com\dfs\SNHU\USERS\kalinmason_snhu\Documents\OpenGLSample\Debug\OpenGLSample.exe
